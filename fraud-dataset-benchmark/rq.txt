@@ -1,0 +1,15 @@
+autogluon
+h2o==3.36.1.2
+boto3==1.20.21
+click==8.0.3
+click-plugins==1.1.1
+Faker==4.14.2
+joblib==1.0.0
+kaggle==1.5.12
+numpy==1.21
+pandas
+regex==2020.7.14
+scikit-learn
+scipy
+auto-sklearn
+dask==2022.09.1
