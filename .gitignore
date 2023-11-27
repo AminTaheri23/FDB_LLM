@@ -1,3 +1,6 @@
+# large CSVs
+fraud-dataset-benchmark/tmp/*.csv
+fraud-dataset-benchmark/tmp/*.zip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
