@@ -1,3 +1,5 @@
+# large npy files 
+plots/*.npy
 # large CSVs
 fraud-dataset-benchmark/tmp/*.csv
 fraud-dataset-benchmark/tmp/*.zip

@@ -4,7 +4,7 @@ import lightgbm as lgb
 from sklearn.metrics import average_precision_score
 #%%
 # all_keys = ['fakejob', 'vehicleloan', 'malurl', 'ieeecis', 'ccfraud', 'fraudecom', 'twitterbot', 'ipblock'] 
-key = 'ieeecis'
+key = 'sparknov'
 
 obj = FraudDatasetBenchmark(
     key=key,
